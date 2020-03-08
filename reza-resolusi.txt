@@ -1,0 +1,5 @@
+Reza Resolution
+- Saya akan membuat aplikasi mobile.
+- saya akan membuat aplikasi web base dengan ci dan laravel yang didukung oleh ajax, jquery bootstrap 4 dengan centos server.
+- saya akan konsisten membuat konten 2x seminggu.
+- membuat forum diskusi
